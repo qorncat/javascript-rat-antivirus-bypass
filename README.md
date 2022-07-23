@@ -13,6 +13,9 @@ Goto config.js & edit WEBHOOK to Your Webhook URL(Discord WEBHOOK)
 <img src="./unknown.png">
 
 
-for installing module run install.bat
+for installing module run
+```install.bat```
+then installing use this command on powershell
+```node index.js```
 
 i will not give build.bat because only educational purposes, don't cry heckers :D
