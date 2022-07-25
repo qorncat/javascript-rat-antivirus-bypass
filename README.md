@@ -1,3 +1,5 @@
+# Firstly Don't Forget Give Star to This Project
+
 # NOTE: Make sure you have NodeJS and Visual Studio with all C++ prequisites installed. Otherwise this won't work
 
 This app will copy this and bypass the antivirus program.
